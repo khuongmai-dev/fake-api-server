@@ -5,8 +5,11 @@ This mini project is using json-server to create a fake REST API. You can check 
 ## Steps to do
 
 > npm init
+
 > This command to create package.json file.
+
 > npm install json-server
+
 > json-server --watch db.json --port 3001
 
 ## Testing
